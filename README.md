@@ -1,24 +1,6 @@
 # admin-dashboard
 
-## Project setup
-```
-npm install
-```
+Vuetify Material Dashboard inspired by https://github.com/creativetimofficial/vuetify-material-dashboard
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+![dashboard view](./capture.jpg)
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
