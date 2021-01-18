@@ -1,4 +1,4 @@
-# admin-dashboard
+# Admin-dashboard
 
 Simpler Vuetify Material Dashboard inspired by https://github.com/creativetimofficial/vuetify-material-dashboard
 
